@@ -1,0 +1,4 @@
+BasePickable: da duplicare per ogni oggetto che deve esser preso in scena. Va cambiata solo la mesh (o quel che serve).
+Nella parte event graph, è possibile cambiare la variabile LevelWeight che determina il peso dell'oggetto.
+
+Per funzionare NECESSITA l'inclusione del character aggiornato e il component PICKPROPERTY.
