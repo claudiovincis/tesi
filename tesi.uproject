@@ -14,11 +14,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Niagara",
+			"Name": "HoudiniNiagara",
 			"Enabled": true
 		},
 		{
-			"Name": "HoudiniNiagara",
+			"Name": "Niagara",
 			"Enabled": true
 		},
 		{
